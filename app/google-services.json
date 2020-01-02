@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996296612571",
+    "firebase_url": "https://savepasswordoffline.firebaseio.com",
+    "project_id": "savepasswordoffline",
+    "storage_bucket": "savepasswordoffline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996296612571:android:91476e2b047268e1104afe",
+        "android_client_info": {
+          "package_name": "com.example.savepasswordoffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996296612571-8g63d9691rpc18g6agjgbt097npv2eti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.savepasswordoffline",
+            "certificate_hash": "e1c55409083cd63947a3576bc1f52f7f1222f034"
+          }
+        },
+        {
+          "client_id": "996296612571-5ph589mq34n95vhf30lm68jvhb0asd75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2SfYMz8NFGlI_bo88Pr5_v7coJzf3ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996296612571-5ph589mq34n95vhf30lm68jvhb0asd75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
