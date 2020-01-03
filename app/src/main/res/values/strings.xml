@@ -1,10 +1,16 @@
 <resources>
     <string name="app_name">SavePasswordOffline</string>
     <string name="emailaddress">EMAIL ADDRESS</string>
+    <string name="email_address">Email Address</string>
     <string name="logo_of_application">Logo of Application</string>
     <string name="sign_in">SIGN IN</string>
     <string name="password">PASSWORD</string>
     <string name="s_i_g_n_i_n">S I G N I N</string>
     <string name="new_user">New user? </string>
     <string name="sign_up">Sign Up</string>
+    <string name="signup">SIGN UP</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="pass_word">Password</string>
+    <string name="show">SHOW</string>
 </resources>
