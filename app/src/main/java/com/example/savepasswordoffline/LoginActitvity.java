@@ -25,6 +25,7 @@ public class LoginActitvity extends AppCompatActivity implements View.OnClickLis
     public void onClick(View v) {
         if (v.getId() == R.id.txt_sign_up){
             startActivity(new Intent(LoginActitvity.this, RegistrationActivity.class));
+            finish();
         }
     }
 }
