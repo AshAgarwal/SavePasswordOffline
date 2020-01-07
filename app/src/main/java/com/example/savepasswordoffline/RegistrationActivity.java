@@ -226,6 +226,7 @@ public class RegistrationActivity extends AppCompatActivity implements View.OnCl
     }
 
     private void sendEmailVerification(){
+        /*Getting Current User from Firebase Authentication*/
         firebaseUser = firebaseAuth.getCurrentUser();
 
         if (firebaseUser != null){

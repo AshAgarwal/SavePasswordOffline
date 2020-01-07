@@ -16,4 +16,7 @@
     <string name="forgot_password">Forgot Password</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="password_has_minimum_8_characters_and_has_at_least_one_number_one_uppercase_one_lowercase_and_one_special_character">PASSWORD TOO WEAK!!\nPassword has minimum 8 characters and has at least one Number[0-9],one Uppercase[A-Z],one Lowercase[a-z] and one Special Character[@#$%^*=+]</string>
+    <string name="invalid_email_password">Invalid Email/Password</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
