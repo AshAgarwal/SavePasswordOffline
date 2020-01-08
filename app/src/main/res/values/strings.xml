@@ -19,4 +19,5 @@
     <string name="invalid_email_password">Invalid Email/Password</string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_application_name">Enter Application Name</string>
 </resources>
