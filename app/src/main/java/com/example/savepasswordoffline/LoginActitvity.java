@@ -79,6 +79,12 @@ public class LoginActitvity extends AppCompatActivity implements View.OnClickLis
         firebaseDatabase = FirebaseDatabase.getInstance();
         databaseReference = firebaseDatabase.getReference("tbl_Users");
 
+        firebaseUser = firebaseAuthLogin.getCurrentUser();
+
+        if (firebaseUser != null){
+            firebaseAuthLogin.signOut();
+        }
+
         if ( !checkUserSignInOrNot() ){
             mEmailAddr = (EditText) findViewById(R.id.login_email);
             mPassword = (EditText) findViewById(R.id.login_password);
